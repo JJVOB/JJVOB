@@ -1,6 +1,6 @@
 
 <p align="center">
-  Se eu fosse um escritor, teria uma bio melhor  ¯\_(ツ)_/¯
+  Se eu fosse um escritor teria uma bio melhor  ¯\_(ツ)_/¯
 </p>
 
 <br>
