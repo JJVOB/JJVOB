@@ -17,9 +17,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJVOB&layout=compact&hide_border=true&title_color=ff6e96&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-## 
-![Snake animation](https://github.com/JJVOB/JJVOB/blob/output/github-contribution-grid-snake.svg)
-## 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JJVOB&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -58,3 +55,12 @@
   linkedln: Joao Julio <br>
   
 </div>
+<div align="center">
+  <br>
+  <p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+  <br>
+  </div>
+## 
+![Snake animation](https://github.com/JJVOB/JJVOB/blob/output/github-contribution-grid-snake.svg)
+## 
