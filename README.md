@@ -12,8 +12,9 @@ Se eu fosse um escritor, teria uma bio melhor  ¯\_(ツ)_/¯
 ## 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=JJVOB&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 </p>
-
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JJVOB&theme=dracula)
 
 
