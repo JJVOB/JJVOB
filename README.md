@@ -1,7 +1,7 @@
 Se eu fosse um escritor, teria uma bio melhor  ¯\_(ツ)_/¯
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd93f9&size=35&center=true&vCenter=true&width=1000&lines=+HELLO,+MY+NAME+is+João+Julio+Veriato+Oliveira+Benigno;I'm+21+years+old;I+from+Brasil,+MG;I+study+Computer+Science+at+Rede+Doctum;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&center=true&vCenter=true&width=1000&lines=+HELLO,+MY+NAME+is+João+Julio+Veriato+Oliveira+Benigno;I'm+21+years+old;I+from+Brasil,+MG;I+study+Computer+Science+at+Rede+Doctum;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
